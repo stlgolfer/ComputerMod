@@ -3,6 +3,7 @@ package xyz.amtstl.computermod.blocks;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
+import xyz.amtstl.computermod.preinit.ModBlocks;
 
 public class BlockComputer extends Block {
 	public BlockComputer() {
@@ -10,6 +11,6 @@ public class BlockComputer extends Block {
 		
 		this.setRegistryName("blockcomputer");
 		this.setUnlocalizedName("blockcomputer");
-		this.setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+		this.setCreativeTab(ModBlocks.tab);
 	}
 }
