@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"normal": { "model": "community:blockcomputer" }
+		"normal": { "model": "computermod:blockcomputer" }
 	}
 }

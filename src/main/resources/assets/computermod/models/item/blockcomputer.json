@@ -1,5 +1,5 @@
 {
-	"parent": "community:block/blockcomputer",
+	"parent": "computermod:block/blockcomputer",
 	"display": {
 		"thirdperson": {
 			"rotation": [ 10, -45, 170 ],
