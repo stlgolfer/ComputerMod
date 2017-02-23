@@ -28,6 +28,19 @@ public class ModHelper {
 		help.add(0, "public static CreativeTabs tab = new CreativeTabs('Community Mod') {@Override public ItemStack getTabIconItem() {return new ItemStack(computer);}};");
 	}
 	
+	public static void registerModBlocks(){
+		for (Block i : MyModBlocks) {
+			registerBlock(i);
+		}
+	}
+	
+	public static void createCreativeTabs(CreativeTabs tabs, String name, final Block icon) {
+		tabs = new CreativeTabs(name) {
+			@Override public ItemStack getTabIconItem() {
+				return new ItemStack(icon);
+			}
+		};
+	}
 	
 	/// Registries
 	public static void registerBlock(Block block) 

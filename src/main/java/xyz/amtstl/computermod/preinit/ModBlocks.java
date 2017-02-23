@@ -13,7 +13,8 @@ public class ModBlocks {
 	public static Block computer;
 	public static Block laptop;
 	
-	public static void preInit() {	
+	public static void preInit() {
+		
 		// register blocks here
 		computer = new BlockComputer();
 		laptop = new BlockLaptop();
@@ -21,8 +22,8 @@ public class ModBlocks {
 		ModHelper.MyModBlocks.add(ModBlocks.computer);
 		ModHelper.MyModBlocks.add(ModBlocks.laptop);
 		
-		ModHelper.registerBlock(computer);
-		ModHelper.registerBlock(laptop);
+		// register creative tabs
+		ModHelper.registerModBlocks();
 	}
 	
 	public static CreativeTabs tab = new CreativeTabs("Community Mod") {
