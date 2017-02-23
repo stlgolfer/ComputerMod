@@ -1,3 +1,4 @@
 tile.blockcomputer.name=Computer
 tile.blocklaptop.name=Laptop
-itemGroup.Community Mod=Community Mod
+item.itemmotherboard.name=Motherboard
+itemGroup.Computer Mod=Computer Mod

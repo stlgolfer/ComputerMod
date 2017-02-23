@@ -34,6 +34,12 @@ public class ModHelper {
 		}
 	}
 	
+	public static void registerModItems() {
+		for (Item i : MyModItems) {
+			GameRegistry.register(i);
+		}
+	}
+	
 	public static void createCreativeTabs(CreativeTabs tabs, String name, final Block icon) {
 		tabs = new CreativeTabs(name) {
 			@Override public ItemStack getTabIconItem() {
@@ -43,12 +49,12 @@ public class ModHelper {
 	}
 	
 	/// Registries
-	public static void registerBlock(Block block) 
+	private static void registerBlock(Block block) 
 	{
 		registerBlock(block, new ItemBlock(block));
 	}
 	
-	public static void registerBlock(Block block, ItemBlock item) 
+	private static void registerBlock(Block block, ItemBlock item) 
 	{
 		GameRegistry.register(block);
 		item.setRegistryName(block.getRegistryName());

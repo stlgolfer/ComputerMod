@@ -9,12 +9,14 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import xyz.amtstl.computermod.misc.ModHelper;
 import xyz.amtstl.computermod.preinit.ModBlocks;
+import xyz.amtstl.computermod.preinit.ModItems;
 
 @Mod(modid = Resources.MOD_ID, name = Resources.MOD_NAME, version = Resources.VERSION)
 public class ComputerMod {
 	
 	@EventHandler
 	public static void preInit(FMLPreInitializationEvent event) {
+		ModItems.preInit();
 		ModBlocks.preInit();
 		ModHelper.ModHelperStart();
 	}
@@ -23,5 +25,6 @@ public class ComputerMod {
 	public static void init(FMLInitializationEvent event) {
 		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.computer, "blockcomputer");
 		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.laptop, "blocklaptop");
+		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.motherboard, "itemmotherboard");
 	}
 }
