@@ -20,7 +20,9 @@ public class ComputerMod {
 	
 	@EventHandler
 	public static void init(FMLInitializationEvent event) {
-		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(ModBlocks.computer), 0, new ModelResourceLocation("computermod:blockcomputer", "inventory"));
-		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(ModBlocks.laptop), 0, new ModelResourceLocation("computermod:blocklaptop", "inventory"));
+		//Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(ModBlocks.computer), 0, new ModelResourceLocation("computermod:blockcomputer", "inventory"));
+		//Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(ModBlocks.laptop), 0, new ModelResourceLocation("computermod:blocklaptop", "inventory"));
+		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.computer, "blockcomputer");
+		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.laptop, "blocklaptop");
 	}
 }

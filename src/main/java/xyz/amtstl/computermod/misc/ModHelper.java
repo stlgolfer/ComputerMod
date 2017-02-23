@@ -48,7 +48,8 @@ public class ModHelper {
 	/// End Registries
 	/// Model Renders
 	// Block Render
-	public static void registerRenderBlocks(String modid, Block block){
-		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(block), 0, new ModelResourceLocation(modid + block.getRegistryName(), "inventory"));
+	public static void registerRenderBlocks(String modid, Block block, String itemregistryname){
+		System.out.println("Now Rendering @: " + modid  + ":" + itemregistryname);
+		Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(Item.getItemFromBlock(block), 0, new ModelResourceLocation(modid  + ":" + itemregistryname, "inventory"));
 	}
 }
