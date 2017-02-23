@@ -26,5 +26,7 @@ public class ComputerMod {
 		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.computer, "blockcomputer");
 		ModHelper.registerRenderBlocks(Resources.MOD_ID, ModBlocks.laptop, "blocklaptop");
 		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.motherboard, "itemmotherboard");
+		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.gpu, "itemgpu");
+		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.cpu, "itemcpu");
 	}
 }
