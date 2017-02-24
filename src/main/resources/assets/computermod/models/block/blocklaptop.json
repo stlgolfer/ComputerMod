@@ -5,7 +5,8 @@
         "1": "blocks/crafting_table_top",
         "2": "blocks/wool_colored_lime",
         "3": "blocks/ice",
-        "4": "blocks/log_big_oak"
+        "4": "blocks/log_big_oak",
+        "particle": "blocks/obsidian"
     },
     "elements": [
         {

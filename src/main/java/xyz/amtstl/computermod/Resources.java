@@ -8,6 +8,6 @@ public class Resources {
 	/**
 	 * Variables for the chat server
 	 */
-	public static final String CHAT_GET_IP = "http://localhost:1600/chat/get";
-	public static final String CHAT_POST_IP = "http://localhost:1600/chat/send";
+	public static final String CHAT_GET_IP = "http://45.56.70.141:1800/chat/get";
+	public static final String CHAT_POST_IP = "http://45.56.70.141:1800/chat/send";
 }
