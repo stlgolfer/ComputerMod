@@ -27,7 +27,7 @@ public class ModBlocks {
 		ModHelper.registerModBlocks();
 		
 		// add recipes
-		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.computer), new Object[] {"###", "#I#", "EEE", '#', Blocks.OBSIDIAN, 'I', ModItems.motherboard, 'E', Blocks.STONE});
+		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.computer), new Object[] {"#B#", "AIA", "#C#", '#', Blocks.OBSIDIAN, 'I', ModItems.motherboard, 'A', ModItems.ram, 'C', ModItems.cpu, 'B', ModItems.gpu});
 		GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.laptop), new Object[] {"#A#", "#I#", "EEE", '#', Blocks.OBSIDIAN, 'I', ModItems.motherboard, 'E', Blocks.STONE, 'A', Blocks.GLASS_PANE});
 	}
 	

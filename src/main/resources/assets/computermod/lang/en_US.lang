@@ -3,4 +3,5 @@ tile.blocklaptop.name=Laptop
 item.itemmotherboard.name=Motherboard
 item.itemgpu.name=GTX 1080
 item.itemcpu.name=Processor
+item.itemram.name=8GB RAM
 itemGroup.Computer Mod=Computer Mod

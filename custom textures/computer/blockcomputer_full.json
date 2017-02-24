@@ -4,8 +4,7 @@
         "0": "blocks/obsidian",
         "1": "blocks/log_big_oak",
         "2": "blocks/glass",
-        "3": "blocks/gold_block",
-		"particle": "blocks/obsidian"
+        "3": "blocks/gold_block"
     },
     "elements": [
         {
