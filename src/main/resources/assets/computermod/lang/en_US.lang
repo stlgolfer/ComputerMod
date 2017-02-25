@@ -1,5 +1,6 @@
 tile.blockcomputer.name=Computer
 tile.blocklaptop.name=Laptop
+tile.blockmonitor.name=Monitor
 item.itemmotherboard.name=Motherboard
 item.itemgpu.name=GTX 1080
 item.itemcpu.name=Processor

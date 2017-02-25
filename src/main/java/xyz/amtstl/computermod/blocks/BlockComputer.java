@@ -50,11 +50,11 @@ public class BlockComputer extends Block {
 			
 			else if(!facing.equals(facing.SOUTH)) {
 				if (computer_status == true) {
-					playerIn.sendMessage(new TextComponentString("§aComputer is on!"));
+					playerIn.sendMessage(new TextComponentString("Computer is on!"));
 					computer_status = false;
 				}
 				else if (computer_status == false) {
-					playerIn.sendMessage(new TextComponentString("§cComputer is off!"));
+					playerIn.sendMessage(new TextComponentString("Computer is off!"));
 					computer_status = true;
 				}
 			}
