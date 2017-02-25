@@ -16,8 +16,20 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import scala.Int;
 import xyz.amtstl.computermod.preinit.ModBlocks;
 
+/**
+ * <h1>ModHelper Class</h1>
+ * <p>This class makes Forge mod development a little more simplified</p>
+ * 
+ * @author Alex M
+ * @version 0.5
+ * @since 2/24/17
+ */
+
 public class ModHelper {
 	// Collections
+	/**
+	 * Collections for the mod
+	 */
 	public static List<Block> MyModBlocks = new ArrayList<Block>();
 	public static List<Item> MyModItems = new ArrayList<Item>();
 	public static List<CreativeTabs> MyModCreativeTabs = new ArrayList<CreativeTabs>();
