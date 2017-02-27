@@ -30,5 +30,6 @@ public class ComputerMod {
 		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.gpu, "itemgpu");
 		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.cpu, "itemcpu");
 		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.ram, "itemram");
+		ModHelper.registerRenderItems(Resources.MOD_ID, ModItems.crumpet, "itemcrumpet");
 	}
 }

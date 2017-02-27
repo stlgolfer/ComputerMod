@@ -1,10 +1,10 @@
-[16:02:01] [Client thread/INFO]: Setting user: Player806
-[16:02:15] [Client thread/WARN]: Skipping bad option: lastServer:
-[16:02:15] [Client thread/INFO]: LWJGL Version: 2.9.4
-[16:02:18] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
-// I let you down. Sorry :(
+[23:16:36] [Client thread/INFO]: Setting user: Player450
+[23:16:52] [Client thread/WARN]: Skipping bad option: lastServer:
+[23:16:52] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:16:55] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
+// Sorry :(
 
-Time: 2/24/17 4:02 PM
+Time: 2/26/17 11:16 PM
 Description: Loading screen debug info
 
 This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
@@ -19,48 +19,53 @@ Details:
 	Operating System: Windows 10 (amd64) version 10.0
 	Java Version: 1.8.0_111, Oracle Corporation
 	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 705852328 bytes (673 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	Memory: 702202008 bytes (669 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
 	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
 	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
 	FML: 
 	Loaded coremods (and transformers): 
 	GL info: ' Vendor: 'Intel' Version: '4.0.0 - Build 10.18.10.4358' Renderer: 'Intel(R) HD Graphics 4000'
-[16:02:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Computer Mod
-[16:02:32] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:02:32] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[16:02:32] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:02:32] [Thread-8/INFO]: OpenAL initialized.
-[16:02:32] [Sound Library Loader/INFO]: Sound engine started
-[16:02:43] [Client thread/INFO]: Created: 16x16 textures-atlas
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:blockcomputer
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:blocklaptop
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemmotherboard
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemgpu
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemcpu
-[16:02:45] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemram
-[16:02:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Computer Mod
-[16:02:51] [Client thread/INFO]: SoundSystem shutting down...
-[16:02:51] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[16:02:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[16:02:51] [Thread-10/INFO]: Initializing LWJGL OpenAL
-[16:02:51] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:02:51] [Thread-10/INFO]: OpenAL initialized.
-[16:02:52] [Sound Library Loader/INFO]: Sound engine started
-[16:03:00] [Client thread/INFO]: Created: 512x512 textures-atlas
-[16:03:04] [Client thread/WARN]: Skipping bad option: lastServer:
-[16:03:06] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[16:03:18] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
-[16:03:18] [Server thread/INFO]: Generating keypair
-[16:03:19] [Server thread/INFO]: Preparing start region for level 0
-[16:03:21] [Server thread/INFO]: Preparing spawn area: 0%
-[16:03:22] [Server thread/INFO]: Preparing spawn area: 41%
-[16:03:23] [Server thread/INFO]: Preparing spawn area: 99%
-[16:03:23] [Server thread/INFO]: Changing view distance to 2, from 10
-[16:03:26] [Server thread/INFO]: Player806[local:E:75756bfb] logged in with entity id 372 at (-34.851075676818475, 72.0, 252.30000001192093)
-[16:03:26] [Server thread/INFO]: Player806 joined the game
-[16:03:28] [Server thread/INFO]: Saving and pausing game...
-[16:03:28] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[16:03:28] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@dd4c93b[id=c4d26a50-7780-355e-b483-13b3b871f0a9,name=Player806,properties={},legacy=false]
+[23:17:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Computer Mod
+[23:17:11] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:17:11] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[23:17:11] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:17:12] [Thread-8/INFO]: OpenAL initialized.
+[23:17:12] [Sound Library Loader/INFO]: Sound engine started
+[23:17:29] [Client thread/INFO]: Created: 16x16 textures-atlas
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:blockcomputer
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:blocklaptop
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemmotherboard
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:blockmonitor
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemgpu
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemcpu
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemram
+[23:17:32] [Client thread/INFO]: [STDOUT]: Now Rendering @: computermod:itemcrumpet
+[23:17:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Computer Mod
+[23:17:43] [Client thread/INFO]: SoundSystem shutting down...
+[23:17:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[23:17:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:17:44] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[23:17:44] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:17:44] [Thread-10/INFO]: OpenAL initialized.
+[23:17:44] [Sound Library Loader/INFO]: Sound engine started
+[23:17:54] [Client thread/INFO]: Created: 512x512 textures-atlas
+[23:17:58] [Client thread/WARN]: Skipping bad option: lastServer:
+[23:18:00] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:18:07] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
+[23:18:07] [Server thread/INFO]: Generating keypair
+[23:18:09] [Server thread/INFO]: Preparing start region for level 0
+[23:18:10] [Server thread/INFO]: Preparing spawn area: 0%
+[23:18:11] [Server thread/INFO]: Preparing spawn area: 28%
+[23:18:12] [Server thread/INFO]: Preparing spawn area: 88%
+[23:18:13] [Server thread/INFO]: Changing view distance to 2, from 10
+[23:18:16] [Server thread/WARN]: Invalid statistic in .\saves\Test World\stats\b4e0083c-c857-3e3a-a915-f92e6611bf03.json: Don't know what stat.useItem.computermod.itemcoffee is
+[23:18:16] [Server thread/INFO]: Player450[local:E:646f1d7f] logged in with entity id 366 at (-33.94917833343916, 72.0, 254.68688634389133)
+[23:18:16] [Server thread/INFO]: Player450 joined the game
+[23:18:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2294ms behind, skipping 45 tick(s)
+[23:18:18] [Server thread/INFO]: Saving and pausing game...
+[23:18:18] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:18:18] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:18:18] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@73398cdb[id=b4e0083c-c857-3e3a-a915-f92e6611bf03,name=Player450,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -82,209 +87,66 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_111]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_111]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_111]
-[16:03:28] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[16:03:28] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[16:03:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3718ms behind, skipping 74 tick(s)
-[16:03:38] [Server thread/INFO]: [STDERR]: java.net.ConnectException: Connection refused: connect
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.misc.HTTPHandler.sendGet(HTTPHandler.java:30)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.blocks.BlockComputer.onBlockActivated(BlockComputer.java:44)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:474)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:712)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.util.Util.runTask(Util.java:26)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:753)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:698)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:156)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:547)
-[16:03:38] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
-[16:03:41] [Client thread/INFO]: [CHAT] §cComputer is off!
-[16:03:44] [Client thread/INFO]: [CHAT] §aComputer is on!
-[16:03:49] [Client thread/INFO]: [CHAT] §cComputer is off!
-[16:03:52] [Client thread/INFO]: [CHAT] §aComputer is on!
-[16:03:58] [Server thread/INFO]: [STDERR]: java.net.ConnectException: Connection refused: connect
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.misc.HTTPHandler.sendGet(HTTPHandler.java:30)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.blocks.BlockComputer.onBlockActivated(BlockComputer.java:44)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:474)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:712)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.util.Util.runTask(Util.java:26)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:753)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:698)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:156)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:547)
-[16:03:58] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: java.net.ConnectException: Connection refused: connect
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.misc.HTTPHandler.sendGet(HTTPHandler.java:30)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.blocks.BlockComputer.onBlockActivated(BlockComputer.java:44)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:474)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:712)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.util.Util.runTask(Util.java:26)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:753)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:698)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:156)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:547)
-[16:04:00] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: java.net.ConnectException: Connection refused: connect
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.misc.HTTPHandler.sendGet(HTTPHandler.java:30)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at xyz.amtstl.computermod.blocks.BlockComputer.onBlockActivated(BlockComputer.java:44)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.management.PlayerInteractionManager.processRightClickBlock(PlayerInteractionManager.java:474)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.NetHandlerPlayServer.processTryUseItemOnBlock(NetHandlerPlayServer.java:712)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:68)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.processPacket(CPacketPlayerTryUseItemOnBlock.java:13)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.network.PacketThreadUtil$1.run(PacketThreadUtil.java:15)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.util.Util.runTask(Util.java:26)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:753)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:698)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:156)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:547)
-[16:04:01] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
-[16:04:07] [Server thread/INFO]: Player806 has just earned the achievement [Taking Inventory]
-[16:04:07] [Client thread/INFO]: [CHAT] Player806 has just earned the achievement [Taking Inventory]
-[16:04:19] [Server thread/INFO]: Saving and pausing game...
-[16:04:19] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[16:04:19] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[16:04:19] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
-[16:04:22] [Server thread/INFO]: Stopping server
-[16:04:22] [Server thread/INFO]: Saving players
-[16:04:22] [Server thread/INFO]: Player806 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:04:22] [Server thread/INFO]: Player806 left the game
-[16:04:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[16:04:22] [Server thread/INFO]: Saving worlds
-[16:04:22] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
-[16:04:22] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
-[16:04:22] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:18:18] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:18:38] [Server thread/INFO]: [Player450: Given [Command Block] * 1 to Player450]
+[23:18:38] [Client thread/INFO]: [CHAT] Given [Command Block] * 1 to Player450
+[23:18:41] [Server thread/INFO]: Saving and pausing game...
+[23:18:41] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:18:41] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:18:41] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:18:51] [Client thread/INFO]: [CHAT] Command set: /effect @p minecraft:hunger 60 50
+[23:19:03] [Server thread/INFO]: Saving and pausing game...
+[23:19:03] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:19:04] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:19:04] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:19:04] [Client thread/INFO]: [CHAT] Command set: /effect @p minecraft:hunger 60 50
+[23:19:08] [Server thread/INFO]: [Player450: Set own game mode to Survival Mode]
+[23:19:08] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[23:19:10] [Server thread/INFO]: [@: Given Hunger (ID 17) * 50 to Player450 for 60 seconds]
+[23:19:10] [Client thread/INFO]: [CHAT] [@: Given Hunger (ID 17) * 50 to Player450 for 60 seconds]
+[23:19:39] [Server thread/INFO]: [Player450: Took all effects from Player450]
+[23:19:39] [Client thread/INFO]: [CHAT] Took all effects from Player450
+[23:19:44] [Server thread/INFO]: [Player450: Set own game mode to Creative Mode]
+[23:19:44] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[23:20:05] [Client thread/INFO]: [CHAT] Monitor is on
+[23:20:06] [Client thread/INFO]: [CHAT] Monitor is off
+[23:20:10] [Client thread/INFO]: [CHAT] Monitor is on
+[23:20:13] [Server thread/INFO]: [STDOUT]: BLOCKMONITOR: Didn't click a handled face
+[23:20:13] [Server thread/INFO]: [STDOUT]: BLOCKMONITOR: Didn't click a handled face
+[23:20:14] [Server thread/INFO]: [STDOUT]: BLOCKMONITOR: Didn't click a handled face
+[23:20:17] [Client thread/INFO]: [CHAT] Monitor is off
+[23:20:19] [Client thread/INFO]: [CHAT] Monitor is on
+[23:20:20] [Client thread/INFO]: [CHAT] Monitor is off
+[23:20:21] [Client thread/INFO]: [CHAT] Monitor is on
+[23:20:22] [Client thread/INFO]: [CHAT] Monitor is off
+[23:20:23] [Server thread/INFO]: [STDOUT]: 
+Sending 'GET' request to URL : http://45.56.70.141:1800/chat/get
+[23:20:23] [Server thread/INFO]: [STDOUT]: Response Code : 200
+[23:20:23] [Client thread/INFO]: [CHAT] <stlgolfer>: sup y'all
+[23:20:25] [Client thread/INFO]: [CHAT] Computer is off!
+[23:20:26] [Client thread/INFO]: [CHAT] Computer is on!
+[23:20:34] [Client thread/INFO]: [CHAT] Computer is off!
+[23:20:36] [Client thread/INFO]: [CHAT] Computer is on!
+[23:20:37] [Client thread/INFO]: [CHAT] Monitor is on
+[23:20:41] [Server thread/INFO]: Saving and pausing game...
+[23:20:41] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:20:41] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:20:41] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:20:59] [Client thread/INFO]: [CHAT] Monitor is off
+[23:21:07] [Client thread/INFO]: [CHAT] Monitor is on
+[23:22:45] [Server thread/INFO]: Saving and pausing game...
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:22:45] [Server thread/INFO]: Stopping server
+[23:22:45] [Server thread/INFO]: Saving players
+[23:22:45] [Server thread/INFO]: Player450 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:22:45] [Server thread/INFO]: Player450 left the game
+[23:22:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[23:22:45] [Server thread/INFO]: Saving worlds
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[23:22:45] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[23:22:47] [Client thread/INFO]: Stopping!
+[23:22:47] [Client thread/INFO]: SoundSystem shutting down...
+[23:22:47] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
